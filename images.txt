@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
-malithgeodd/tensorrt-llm:0.18.0
+#malithgeodd/tensorrt-llm:0.18.0
+lmcache/vllm-openai
