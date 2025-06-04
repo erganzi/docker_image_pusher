@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
-lmcache/vllm-openai
+#lmcache/vllm-openai
+efrecon/webdav-client
