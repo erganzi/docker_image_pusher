@@ -6,4 +6,5 @@
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 #lmcache/vllm-openai
-efrecon/webdav-client
+#efrecon/webdav-client
+ghcr.io/pab1it0/prometheus-mcp-server:latest
