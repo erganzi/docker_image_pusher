@@ -7,4 +7,4 @@
 #malithgeodd/tensorrt-llm:0.18.0
 #lmcache/vllm-openai
 #efrecon/webdav-client
-ghcr.io/pab1it0/prometheus-mcp-server:latest
+python:3.9.23-alpine3.22
