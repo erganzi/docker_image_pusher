@@ -7,4 +7,5 @@
 #malithgeodd/tensorrt-llm:0.18.0
 #lmcache/vllm-openai
 #efrecon/webdav-client
-python:3.9.23-alpine3.22
+#python:3.9.23-alpine3.22
+bradleylzh/landppt:latest
