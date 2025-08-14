@@ -9,4 +9,5 @@
 #efrecon/webdav-client
 #python:3.9.23-alpine3.22
 #bradleylzh/landppt:latest
-python:3.11-slim
+#python:3.11-slim
+bitnami/openresty:1.27.1-2
