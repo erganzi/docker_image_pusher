@@ -10,4 +10,6 @@
 #python:3.9.23-alpine3.22
 #bradleylzh/landppt:latest
 #python:3.11-slim
-volcanosh/vc-webhook-manager:v1.7.0
+#volcanosh/vc-webhook-manager:v1.7.0
+bitnami/redis:7.4
+
