@@ -14,4 +14,5 @@
 #calciumion/new-api:latest
 #redis:latest
 #mysql:8.2
-gpustack/gpustack
+#gpustack/gpustack
+ghcr.io/steveiliop56/tinyauth:latest
