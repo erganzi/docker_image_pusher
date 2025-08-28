@@ -15,4 +15,6 @@
 #redis:latest
 #mysql:8.2
 #gpustack/gpustack
-ghcr.io/steveiliop56/tinyauth:latest
+#ghcr.io/steveiliop56/tinyauth:latest
+traefik:v3.3
+traefik/whoami:latest
