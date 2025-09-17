@@ -16,5 +16,6 @@
 #mysql:8.2
 #gpustack/gpustack
 #ghcr.io/steveiliop56/tinyauth:latest
-traefik:v3.3
-traefik/whoami:latest
+#traefik:v3.3
+#traefik/whoami:latest
+node:18-alpine
