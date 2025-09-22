@@ -18,4 +18,5 @@
 #ghcr.io/steveiliop56/tinyauth:latest
 #traefik:v3.3
 #traefik/whoami:latest
-node:18-alpine
+#node:18-alpine
+ubuntu:20.04
