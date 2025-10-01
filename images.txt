@@ -19,4 +19,5 @@
 #traefik:v3.3
 #traefik/whoami:latest
 #node:18-alpine
-ubuntu:20.04
+#ubuntu:20.04
+lmsysorg/sglang:dsv32
