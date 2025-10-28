@@ -21,5 +21,4 @@
 #node:18-alpine
 #ubuntu:20.04
 #lmsysorg/sglang:dsv32
-nvidia/cuda:12.8-base
-nvidia/cuda:12.9-base
+bitnami/redis:7.4
