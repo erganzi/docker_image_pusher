@@ -21,4 +21,5 @@
 #node:18-alpine
 #ubuntu:20.04
 #lmsysorg/sglang:dsv32
-bitnami/redis:7.4
+#bitnami/redis:7.4
+redroid/redroid:14.0.0_64only-latest
