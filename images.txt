@@ -25,5 +25,6 @@
 #--platform=linux/arm64 redroid/redroid:15.0.0_64only-latest
 #python:3.11
 #rajesh550/gh200-vllm:0.11.1rc2
-postgres:16
-docker.n8n.io/n8nio/n8n
+#postgres:16
+#docker.n8n.io/n8nio/n8n
+redis:6-alpine
