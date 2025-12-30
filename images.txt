@@ -5,5 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
-vllm/vllm-openai:nightly-x86_64
-
+#vllm/vllm-openai:nightly-x86_64
+--platform=linux/amd64 lmsysorg/sglang:nightly-dev-20251230-f4ec6f8e
