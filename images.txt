@@ -6,4 +6,7 @@
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 #vllm/vllm-openai:nightly-x86_64
---platform=linux/amd64 lmsysorg/sglang:nightly-dev-20251230-f4ec6f8e
+#--platform=linux/amd64 lmsysorg/sglang:nightly-dev-20251230-f4ec6f8e
+nginx:1.27-alpine
+mysql:8.0
+redis:7-alpine
