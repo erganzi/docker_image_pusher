@@ -22,4 +22,5 @@
 #alpine:latest
 #node:20-slim
 #python:3.11-slim
-justlikemaki/openclaw-docker-cn-im:latest
+#justlikemaki/openclaw-docker-cn-im:latest
+node:20-alpine
