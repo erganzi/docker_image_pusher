@@ -20,5 +20,6 @@
 #ghcr.io/comet-ml/opik/opik-python-backend:latest 
 #zookeeper:3.9.4
 #alpine:latest
-node:20-slim
-python:3.11-slim
+#node:20-slim
+#python:3.11-slim
+justlikemaki/openclaw-docker-cn-im:latest
