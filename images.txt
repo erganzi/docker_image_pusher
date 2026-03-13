@@ -25,4 +25,7 @@
 #justlikemaki/openclaw-docker-cn-im:latest
 #node:20-alpine
 #justlikemaki/openclaw-docker-cn-im:2026.2.22
-python:3.11-slim-bookworm
+#python:3.11-slim-bookworm
+nextcloud:25.0.13
+nextcloud:26.0.13
+nextcloud:27.1.11
