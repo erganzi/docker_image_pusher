@@ -38,4 +38,5 @@
 #vllm/vllm-openai:v0.23.0-cu129
 #redis:7-alpine
 #node:18.17.1
-vllm/vllm-router:nightly-20260714-1fbcde7
+#vllm/vllm-router:nightly-20260714-1fbcde7
+lmsysorg/sglang-router:v0.2.4
