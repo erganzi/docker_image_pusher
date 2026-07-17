@@ -41,7 +41,8 @@
 #vllm/vllm-router:nightly-20260714-1fbcde7
 #lmsysorg/sglang-router:v0.2.4
 #lmsysorg/sgl-model-gateway:v0.3.2
-ghcr.io/llm-d/llm-d-router-endpoint-picker:v0.9.0
-ghcr.io/llm-d/llm-d-router-disagg-sidecar:v0.9.0
-docker.io/envoyproxy/envoy:distroless-v1.33.2
-ghcr.io/llm-d/mooncake-master-store:v0.8.0
+#ghcr.io/llm-d/llm-d-router-endpoint-picker:v0.9.0
+#ghcr.io/llm-d/llm-d-router-disagg-sidecar:v0.9.0
+#docker.io/envoyproxy/envoy:distroless-v1.33.2
+#ghcr.io/llm-d/mooncake-master-store:v0.8.0
+erganzi/llm-d-cuda:v0.8.0-cu129
