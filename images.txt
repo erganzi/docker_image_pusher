@@ -46,4 +46,6 @@
 #docker.io/envoyproxy/envoy:distroless-v1.33.2
 #ghcr.io/llm-d/mooncake-master-store:v0.8.0
 #erganzi/llm-d-cuda:v0.8.0-cu129
-lmsysorg/sglang:v0.5.16-cu130
+#lmsysorg/sglang:v0.5.16-cu130
+docker.openhands.dev/openhands/openhands:1.8
+ghcr.io/openhands/agent-server:1.26.0-python
